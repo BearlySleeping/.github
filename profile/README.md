@@ -1,26 +1,32 @@
-## Hi there 👋
+```
+Create an introduction to the indie game organization BearlySleeping, that works on creating AI games. The main game is AiKami, a top-down 2D RPG, DnD game, with mechanics similar to Baldur's Gate and full focus on AI. Say that contribution is more than welcome.
 
-Welcome to the official GitHub page of BearlySleeping, an indie game team dedicated to pioneering the integration of artificial intelligence into the world of gaming. Our mission is to create immersive and dynamic experiences through the innovative use of AI technologies like ChatGPT, DALL·E, ElevenLabs, and more. We're currently in the early stages of developing our flagship project, AiKami.
+Include the links:
+- Landing page and where to download demo for Mac, Windows, and Linux: https://bearlysleeping.com/
+- Online web demo: http://aikami.bearlysleeping.com/
+- Repo for AiKami: https://github.com/BearlySleeping/aikami
+- Roadmap for AiKami: https://github.com/users/BearlySleeping/projects/1/views/1
+```
 
-### 🎮 About AiKami
+### Welcome to BearlySleeping!
 
-AiKami is a top-down 2D RPG that draws inspiration from Dungeons & Dragons, with a full focus on AI to create a unique gaming experience. Set in a richly detailed world, players can expect an unparalleled adventure that adapts and evolves based on their choices, powered by the latest in AI technology.
+BearlySleeping is an indie game development organization at the forefront of blending artificial intelligence with the rich narratives and complex mechanics of traditional gaming. By leveraging cutting-edge AI technologies we aim to redefine the gaming experience.
 
-#### Early Development
+### Introducing AiKami
 
-We are thrilled to announce that AiKami is in early development. For more information and to stay updated on our progress, check out our [landing page](https://bearlysleeping.com/). Here, you'll find everything you need to know about AiKami, including links to download the demo for Windows, Mac, and Linux.
+Our flagship project, **AiKami**, is a testament to our commitment to innovation. AiKami is a top-down 2D RPG that channels the spirit of Dungeons and Dragons, enriched with AI-driven storytelling and character interaction. Imagine the depth of Baldur's Gate, but with a world that adapts and reacts in unprecedented ways thanks to AI.
 
-### 🕹️ Try the Demo
+### Explore AiKami
 
-Experience a glimpse of AiKami's magic through our demos:
+- **Get the Demo:** Ready to dive into the world of AiKami? Download the demo for Mac, Windows, and Linux at our [landing page](https://bearlysleeping.com/).
+- **Play Online:** Experience AiKami directly in your browser by visiting the [online web demo](http://aikami.bearlysleeping.com/).
+- **Join the Development:** Our journey is just beginning, and your input can shape the future of AiKami. Explore our [GitHub repository](https://github.com/BearlySleeping/aikami) to see how you can contribute.
+- **Our Roadmap:** Curious about what's next? Our [roadmap](https://github.com/users/BearlySleeping/projects/1/views/1) outlines the exciting directions AiKami is headed.
 
-- [Windows, Mac, and Linux demo](https://bearlysleeping.com/)
-- [Online Web Demo](https://aikami.bearlysleeping.com/)
+### Join Us
 
-### 🔧 Get Involved
+BearlySleeping is more than a game development studio; we're a community of creators, dreamers, and gamers. By integrating sophisticated AI into gaming, we're not just crafting games; we're creating worlds. Your journey with AiKami is only the beginning.
 
-Interested in contributing to AiKami or have ideas to share? We're open to contributions and would love to hear from the community. Visit the [AiKami repo](https://github.com/BearlySleeping/aikami) to see how you can get involved.
+---
 
-### 🗺️ Roadmap
-
-Curious about what's next for AiKami? Check out our [roadmap](https://github.com/users/BearlySleeping/projects/1/views/1) to see what we're working on and what's coming up next.
+**BearlySleeping** - Dreaming big, one line of code at a time.
